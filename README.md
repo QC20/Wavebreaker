@@ -28,3 +28,6 @@ Press the 'c' key to clear the canvas and start a new design.
 ## Customize and Explore
 Feel free to modify the code and experiment with different parameters to create your own unique visual experiences. You can adjust the canvas size, background color, particle behavior, and more to suit your design goals.
 
+![Alt text](<video/rec-1.mp4>)
+
+
