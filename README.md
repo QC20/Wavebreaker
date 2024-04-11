@@ -3,7 +3,7 @@
 ## Overview
 This interactive sketch is designed for digital designers and user experience (UX) professionals who want to explore dynamic and creative visual effects. It generates a mesmerizing grid of moving particles that can be used for various design and art purposes.
 
-![Alt text](<Skærmbillede 2023-10-14 kl. 04.37.40.png>)
+![Alt text](<img/wave-img.png>)
 
 ## Features
 Interactive Drawing: The sketch allows you to create dynamic visual compositions by clicking the mouse, leaving a trail of moving particles. This feature enables you to draw and design with ease.
