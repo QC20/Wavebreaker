@@ -1,7 +1,8 @@
 let t = 0; // time variable
 
 function setup() {
-  createCanvas(600, 600);
+  let canvas = createCanvas(windowWidth, windowHeight);
+  canvas.parent('canvas-container');
   noStroke();
   fill(35, 215, 35);
 }
@@ -27,4 +28,8 @@ function draw() {
   }
 
   t = t + 0.01; // update time
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
